@@ -5,6 +5,6 @@ I’m currently learning C#, Pandas and Plotly Dash,
 How to reach me: dm me.
 Professional Background:
   - Phd in Social Sciences
-  - Professional in Educational Field
-  - Master's in Education
+  - Professional in the Educational Field
+  - Master's Degree in Education
   - Qualified Teacher

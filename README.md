@@ -1,4 +1,4 @@
-Hi, I’m interested in Programming, Data Analysis, Python, Web Development, Cybersecurity etc.
+Hi, I’m interested in programming, data analysis, python, web dev, cybersecurity etc.
 
 
 How to reach me: dm me.

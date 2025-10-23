@@ -1,4 +1,4 @@
-👾 Hi, I’m Ville! 👾
+👾 Hi! 👾
 
 I'm interested in programming, data analysis, webdev, hacking, cybersecurity etc. 
 

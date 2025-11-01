@@ -28,4 +28,4 @@
 
 ##### Tools & Technologies
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PrimusQuery](https://img.shields.io/badge/PrimusQuery-000000?style=for-the-badge)
+![PrimusQuery](https://img.shields.io/badge/PrimusQuery-007ACC?style=for-the-badge)

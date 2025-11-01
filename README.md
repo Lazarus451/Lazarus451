@@ -1,14 +1,10 @@
 <div align="left">
 
-# 👾 Hi there! I'm Lazarus451 👾
+### 👾 I'm Lazarus451 👾
 
-#### 💻 Programmer | Data Enthusiast
+#### 💻 Interests
 
 </div>
-
-#### 🚀 About Me
-
-My interests span across:
 
 - 🐍 Programming & Software Development
 - 📊 Data Analysis & Visualization

@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 
 # 👾 Hi there! I'm Lazarus451 👾
 
-### 💻 Developer | Data Analyst | Cybersecurity Enthusiast
+### 💻 Programmer | Data Enthusiast
 
 </div>
 

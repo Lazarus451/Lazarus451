@@ -6,7 +6,7 @@
 
 </div>
 
----
+----
 
 ### 🚀 About Me
 
@@ -17,7 +17,7 @@ My interests span across:
 - 🌐 Web Development
 - 🔐 Cybersecurity & Ethical Hacking
 
----
+----
 
 ### 🛠️ Languages
 
@@ -38,4 +38,4 @@ My interests span across:
 ![PrimusQuery](https://img.shields.io/badge/PrimusQuery-000000?style=for-the-badge)
 
 
----
+----

@@ -2,16 +2,16 @@
 
 ### 👾 I'm Lazarus451 👾
 
-#### 💻 Interests
+#### Interests
 
 </div>
 
-- 🐍 Programming & Software Development
-- 📊 Data Analysis & Visualization
-- 🌐 Web Development
-- 🔐 Cybersecurity & Ethical Hacking
+🐍&emsp;Programming & Software Development\
+📊&emsp;Data Analysis & Visualization\
+🌐&emsp;Web Development\
+🔐&emsp;Cybersecurity & Ethical Hacking
 
-#### 🛠️ Languages
+#### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

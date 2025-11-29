@@ -1,6 +1,6 @@
 <div align="left">
 
-### 👾 I'm Lazarus451 👾
+### I'm Lazarus451 
 
 
 ### Interests
